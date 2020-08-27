@@ -1,0 +1,19 @@
+---
+title: "partner"
+author: "Alec Meyer"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Jaeyeon Won
+GitHub Username: jaeyeonw
+
+They commit both hw1.Rmd and hw1.html; ID: 91660d7
+
+Was able to knit the owners hw1.Rmd without error
+
+
